@@ -1,4 +1,4 @@
-# :rocket: welcome to my git Training :rocket:
+# :rocket: welcome to my git test :rocket:
 
 *This is the repository for Abdelrahman Elmughrabi*
 
